@@ -5,4 +5,4 @@
 
 * tools，llms，memory，knowledges为底层组件。
 * Agents和Chains为中层组件，由底层组件组成。
-* Envs为高级组件，由多个中层组件组成，主要支持多Agent。
+* Envs为高级组件，由多个中层组件组成，主要支持多Agent。·    
