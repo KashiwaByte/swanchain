@@ -1,4 +1,4 @@
-from swanchain import swanchain
+from Chains import swanchain
 
 def test_swanchain():
     assert swanchain.syf("孙二凡")
